@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(57, 57, 116);
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Reproductor{
+    color: #b9a9a9;
+    width: 400px;
+    height: 100px;    
+    display: flex;
+    justify-content: center;
+}
+
+
+
